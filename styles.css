@@ -1,0 +1,41 @@
+body{
+    background-color: #aFe7d7ff
+  }
+  #title{
+    text-align: center;
+    background-color:rgba(127,128,12, 0.4);
+  }
+  #description{
+    text-align: center;
+    font-size: 1.1rem;
+  }
+  .form-control {
+      display: block;
+      padding-left:40%;
+      padding-right:60%;
+      width: 100%;
+      margin: auto;
+      max-width: 540px;
+  }
+  
+  #survey-form{
+    border: 4px solid black;
+    border-radius: 25px;
+  }
+  #name,#email,#number,#age,#about-text,#dropdown{
+    display: block;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  
+  #submit{
+    display: block;
+    margin: auto;
+  }
+  #name-label{
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  
+  
